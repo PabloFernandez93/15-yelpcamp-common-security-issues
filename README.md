@@ -5,8 +5,10 @@
 - Using Helmet
 
 How to run it:
-- npm express-mongo-sanitize
-- npm i sanitize-html
-- npm i helmet
+
+- install node.js
+- install mongodb and run it in the background
+- npm init -y
+- npm install (to install all the dependencies at once)
 
 
